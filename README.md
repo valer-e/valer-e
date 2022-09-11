@@ -1,6 +1,6 @@
 - couple years of python
-- currently learning c#
-- interested in vr projects
+- 2 years of c#
+- learning kotlin
 
 💕
 
