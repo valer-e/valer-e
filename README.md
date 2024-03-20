@@ -1,1 +1,2 @@
-hopeless IB student
+IB graduate
+full-time university student
